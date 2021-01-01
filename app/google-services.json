@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714339512183",
+    "firebase_url": "https://campus-assist-9b4c7.firebaseio.com",
+    "project_id": "campus-assist-9b4c7",
+    "storage_bucket": "campus-assist-9b4c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714339512183:android:1de9604f9fc1ef2ed83b72",
+        "android_client_info": {
+          "package_name": "com.ravi.campusassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714339512183-nst009i3epjn7ehpk7o63abj0botpm9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravi.campusassist",
+            "certificate_hash": "0649d073cea6baa805682fb8c8a4d494382d7eed"
+          }
+        },
+        {
+          "client_id": "714339512183-90en12kbq7t722nrrklc7q6f1p8dhiga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCalVf_w5ZGdc_XWtSTJ0j-i0v4i6wZjjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714339512183-90en12kbq7t722nrrklc7q6f1p8dhiga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
